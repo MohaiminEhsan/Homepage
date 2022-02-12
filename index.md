@@ -8,17 +8,11 @@ layout: default
 
 
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| <img src="assets/img/BrockLogo.png?raw=true" width="150"/>       | January 2021- Present          |
+|:-------------|:------------------|
+| Teaching Assistant for Courses like- | <ul><li>Advanced Programming</li><li>Computer Systems</li> <li>Advanced Data Structures</li> <li>Introduction to Human-Computer Interaction</li></ul> |
 
 
-
-| <img src="assets/img/BrockLogo.png?raw=true" width="150"/>  |January 2021- Present <br /> Teaching Assistant for Courses like-  <ul><li>Advanced Programming</li><li>Computer Systems</li> <li>Advanced Data Structures</li> <li>Introduction to Human-Computer Interaction</li></ul>|
-| ------------------------------------------------------- | :----------- |
 
 ### DGL & MDGL Assitant, Brock Univerty Library, ON, Canada
 | <img src="images/BrockLogo.png?raw=true" width="150"/>  |January 2021- Present <br /> Teaching Assistant for Courses like-  <ul><li>Advanced Programming</li><li>Computer Systems</li> <li>Advanced Data Structures</li> <li>Introduction to Human-Computer Interaction</li></ul>|
