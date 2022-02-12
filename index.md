@@ -3,7 +3,9 @@ layout: default
 ---
 # Portfolio
 [<img src="assets/img/fblogo.png?raw=true" width="20"/>](https://www.facebook.com/mohaiminehsan.anik/)
----
+[<img src="assets/img/ldlogo.png?raw=true" width="20"/>](www.linkedin.com/in/mohaimin-ehsan-02072412b)
+
+
 ## Work Experience
 
 ### Graduate Teaching Assistant, Brock Univerty, ON, Canada
