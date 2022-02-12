@@ -10,7 +10,10 @@ layout: default
 
 | <img src="assets/img/BrockLogo.png?raw=true" width="150"/>       | January 2021- Present          |
 |:-------------|:------------------|
-| Teaching Assistant for Courses like- | <ul><li>Advanced Programming</li><li>Computer Systems</li> <li>Advanced Data Structures</li> <li>Introduction to Human-Computer Interaction</li></ul> |
+| Teaching Assistant for Courses like- | *Advanced Programming
+*Computer Systems
+*Advanced Data Structures
+*Introduction to Human-Computer Interaction |
 
 
 
