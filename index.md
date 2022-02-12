@@ -8,7 +8,7 @@ layout: default
 
 ## Work Experience
 
-### Graduate Teaching Assistant, Brock Univerty, ON, Canada
+### Graduate Teaching Assistant, [Brock Univerty](https://brocku.ca/), ON, Canada
 
 
 
@@ -18,14 +18,14 @@ layout: default
 
 
 
-### DGL & MDGL Assitant, Brock Univerty Library, ON, Canada
+### DGL & MDGL Assitant, [Brock Univerty Library](https://brocku.ca/library/), ON, Canada
 
 
 
 | <img src="assets/img/BUL2.png?raw=true" width="120"/>       | September 2021- Present          |
 |:-------------|:------------------|
-| Digital Scholership Lab | Learn and document new tools that can help the students at Brock University. Arrange workshop on different tools  |
-| Map Data & GIS Library  | Map Data Visualization Project, Journal of Invitational Theory and Practice Preparation                         |
+| [Digital Scholership Lab](https://brocku.ca/library/dsl/) | Learn and document new tools that can help the students at Brock University. Arrange workshop on different tools  |
+| [Map Data & GIS Library](https://brocku.ca/library/mdgl/)  | Map Data Visualization Project, Journal of Invitational Theory and Practice Preparation                         |
 
 
 
