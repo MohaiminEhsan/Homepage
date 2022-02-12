@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+#Portfolio
 
-# Work Experience
+## Work Experience
 
 ### Graduate Teaching Assistant, Brock Univerty, ON, Canada
 
@@ -15,8 +16,11 @@ layout: default
 
 
 ### DGL & MDGL Assitant, Brock Univerty Library, ON, Canada
-| <img src="images/BrockLogo.png?raw=true" width="150"/>  |January 2021- Present <br /> Teaching Assistant for Courses like-  <ul><li>Advanced Programming</li><li>Computer Systems</li> <li>Advanced Data Structures</li> <li>Introduction to Human-Computer Interaction</li></ul>|
-| ------------------------------------------------------- | :----------- |
+| <img src="assets/img/BUL.png?raw=true" width="150"/>       | September 2021- Present          |
+|:-------------|:------------------|
+| Digital Scholership Lab | Learn and document new tools that can help the students at Brock University. Arrange workshop on different tools |
+| Map Data & GIS Library | Map Data Visualization Project, Journal of Invitational Theory and Practice Preparation |
+
 
 
 
@@ -28,20 +32,7 @@ layout: default
 
 ### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
