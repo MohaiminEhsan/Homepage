@@ -22,7 +22,7 @@ layout: default
 | <img src="assets/img/BUL2.png?raw=true" width="100"/>       | September 2021- Present          |
 |:-------------|:------------------|
 | Digital Scholership Lab | Learn and document new tools that can help the students at Brock University. Arrange workshop on different tools  |
-| Map Data & GIS Library  | Map Data Visualization Project, Journal of Invitational Theory and Practice Preparation222                           |
+| Map Data & GIS Library  | Map Data Visualization Project, Journal of Invitational Theory and Practice Preparation                         |
 
 
 
