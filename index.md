@@ -6,7 +6,7 @@ layout: default
 
 ### Graduate Teaching Assistant, Brock Univerty, ON, Canada
 
-| <img src="assets/img/BrockLogo.png?raw=true" width="150"/>         | January 2021- Present      |
+| <img src="assets/img/BrockLogo.png?raw=true" width="150"/>         | January 2021- Present    <br /> Teaching Assistant for Courses like-  |
 |:-------------|:------------------|
 
 
