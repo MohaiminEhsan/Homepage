@@ -5,6 +5,12 @@ layout: default
 # Work Experience
 
 ### Graduate Teaching Assistant, Brock Univerty, ON, Canada
+
+| <img src="assets/img/BrockLogo.png?raw=true" width="150"/>         | head two          |
+|:-------------|:------------------|
+
+
+
 | <img src="assets/img/BrockLogo.png?raw=true" width="150"/>  |January 2021- Present <br /> Teaching Assistant for Courses like-  <ul><li>Advanced Programming</li><li>Computer Systems</li> <li>Advanced Data Structures</li> <li>Introduction to Human-Computer Interaction</li></ul>|
 | ------------------------------------------------------- | :----------- |
 
