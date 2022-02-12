@@ -6,11 +6,14 @@ layout: default
 
 ### Graduate Teaching Assistant, Brock Univerty, ON, Canada
 
-| <img src="assets/img/BrockLogo.png?raw=true" width="150"/>         | January 2021- Present  |
-|:-------------|:------------------|
 
 
-
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 
 
