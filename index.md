@@ -2,17 +2,17 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-HI THIS IS ANIK
-[Link to another page](./another-page.html).
+# Work Experience
 
-There should be whitespace between paragraphs.
+### Graduate Teaching Assistant, Brock Univerty, ON, Canada
+| <img src="assets/img/BrockLogo.png?raw=true" width="150"/>  |January 2021- Present <br /> Teaching Assistant for Courses like-  <ul><li>Advanced Programming</li><li>Computer Systems</li> <li>Advanced Data Structures</li> <li>Introduction to Human-Computer Interaction</li></ul>|
+| ------------------------------------------------------- | :----------- |
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### DGL & MDGL Assitant, Brock Univerty Library, ON, Canada
+| <img src="images/BrockLogo.png?raw=true" width="150"/>  |January 2021- Present <br /> Teaching Assistant for Courses like-  <ul><li>Advanced Programming</li><li>Computer Systems</li> <li>Advanced Data Structures</li> <li>Introduction to Human-Computer Interaction</li></ul>|
+| ------------------------------------------------------- | :----------- |
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
