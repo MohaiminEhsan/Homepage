@@ -2,8 +2,8 @@
 layout: default
 ---
 # Portfolio
-[<img src="assets/img/fblogo.png?raw=true" width="30"/>](https://www.facebook.com/mohaiminehsan.anik/){:target="_blank"}
-[<img src="assets/img/ldlogo.PNG?raw=true" width="30"/>](https://www.linkedin.com/in/mohaimin-ehsan-02072412b){:target="_blank"}
+[<img src="assets/img/fblogo.png?raw=true" width="30"/>](https://www.facebook.com/mohaiminehsan.anik/)
+[<img src="assets/img/ldlogo.PNG?raw=true" width="30"/>](https://www.linkedin.com/in/mohaimin-ehsan-02072412b)
 
 
 ## Work Experience
