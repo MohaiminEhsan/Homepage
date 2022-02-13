@@ -1,5 +1,16 @@
 ---
 layout: default
+output:
+  html_document: 
+    css: columns.css
+  pdf_document: 
+    keep_tex: true
+    includes:
+      in_header: columns.tex
+  beamer_presentation: 
+    keep_tex: true
+    includes:
+      in_header: columns.tex
 ---
 # Portfolio
 [<img src="assets/img/fblogo.png?raw=true" width="30"/>](https://www.facebook.com/mohaiminehsan.anik/)
