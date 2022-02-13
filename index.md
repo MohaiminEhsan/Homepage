@@ -5,6 +5,7 @@ layout: default
 [<img src="assets/img/fblogo.png?raw=true" width="30"/>](https://www.facebook.com/mohaiminehsan.anik/)
 [<img src="assets/img/ldlogo.PNG?raw=true" width="30"/>](https://www.linkedin.com/in/mohaimin-ehsan-02072412b)
 
+---
 
 ## Work Experience
 
@@ -47,3 +48,9 @@ layout: default
 |<img src="assets/img/nilavo.png?raw=true" width="100"/>| November 2016- December 2016          |
 |:-------------|:------------------|
 | Web Test Automation | Web Test Automation using Selenium Webdriver, Introduction of Behavioral driver testing(Cucumber Testing) |
+
+
+---
+
+
+## Educational Qualification
