@@ -55,17 +55,22 @@ layout: default
 
 ## Educational Qualifications
 
-<div class="row">
-  <div class="column"> HIII</div>
-  <div class="column">Anik</div>
-</div>
+:::::: {.cols data-latex=""}
 
-
-*M.Sc. in Computer Science, 2023
+::: {.col data-latex="{0.45\textwidth}"}
+M.Sc. in Computer Science, 2023
 [Brock University](https://brocku.ca/),
 Ontario, Canada
-
-* M.Sc. in Computer Science, 2023
+:::
+::: {.col data-latex="{0.10\textwidth}"}
+:::
+::: {.col data-latex="{0.45\textwidth}"}
+M.Sc. in Computer Science, 2023
 [Brock University](https://brocku.ca/),
 Ontario, Canada
+:::
+::::::
+
+
+
 
