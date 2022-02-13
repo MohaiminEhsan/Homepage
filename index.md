@@ -44,6 +44,6 @@ layout: default
 
 ### Intern SQA Engineer, [Nilavo Technologies Limited](https://nilavo.com/), Dhaka, Bangladesh
 
-|<img src="assets/img/nilavo.png?raw=true" width="120"/>| November 2016- December 2016          |
+|<img src="assets/img/nilavo.png?raw=true" width="100"/>| November 2016- December 2016          |
 |:-------------|:------------------|
 | Web Test Automation | Web Test Automation using Selenium Webdriver, Introduction of Behavioral driver testing(Cucumber Testing) |
