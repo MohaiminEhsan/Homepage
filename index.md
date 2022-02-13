@@ -7,7 +7,7 @@ layout: default
 &nbsp; &nbsp; &nbsp; [<img src="assets/img/fblogo.png?raw=true" width="30"/>](https://www.facebook.com/mohaiminehsan.anik/) 
 &nbsp; &nbsp; &nbsp; [<img src="assets/img/ldlogo.PNG?raw=true" width="30"/>](https://www.linkedin.com/in/mohaimin-ehsan-02072412b)
 &nbsp; &nbsp; &nbsp; [<img src="assets/img/Dlogo.png?raw=true" width="30"/>](https://github.com/MohaiminEhsan/Portfolio/raw/main/MohaiminEhsanCV.pdf)
-&nbsp; &nbsp; &nbsp; [<img src="assets/img/email.png?raw=true" width="30"/>]((mailto:mohaiminehsan@outlook.com))
+&nbsp; &nbsp; &nbsp; [<img src="assets/img/email.png?raw=true" width="30"/>](mailto:mohaiminehsan@outlook.com)
 
 
 ---
