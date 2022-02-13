@@ -33,10 +33,11 @@ layout: default
 
 
 
-| <img src="assets/img/BUL2.png?raw=true" width="120"/>       | September 2021- Present          |
+| <img src="assets/img/Samsung.png?raw=true" width="110"/>       | January 2018- October 2020          |
 |:-------------|:------------------|
-| [Digital Scholership Lab](https://brocku.ca/library/dsl/) | Learn and document new tools that can help the students at Brock University. Arrange workshop on different tools  |
-| [Map Data & GIS Library](https://brocku.ca/library/mdgl/)  | Map Data Visualization Project, Journal of Invitational Theory and Practice Preparation                         |
+| Dev Ops |  iOS, Windows, Tizen, Android SCM and Dev Ops activities, Continuous Integration, Continuous Deployment using AWS |
+| Build | Central Build System, Build time optimization, Proof build for different version control tools, Automated Software Static Analysis System |
+| Tools & Systems  | Test Automation Framework(LTE testing platform with eNodeb), Artifactoy Deployment Service, UI Test Automation, R&D Hub Dashboard, Release Process Automation |
 
 
 
