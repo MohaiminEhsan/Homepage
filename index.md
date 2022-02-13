@@ -53,7 +53,7 @@ layout: default
 
 |<img src="assets/img/nilavo.png?raw=true" width="100"/>| November 2016- December 2016          |
 |:-------------|:------------------|
-| Web Test Automation | Web Test Automation using Selenium Webdriver, Introduction of Behavioral driver testing(Cucumber Testing) |
+| Web Test Automation | Web Test Automation using Selenium Webdriver, Introduction of Behavioral driven testing(Cucumber Testing) |
 
 
 ---
