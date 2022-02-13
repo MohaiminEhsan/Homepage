@@ -12,7 +12,7 @@ layout: default
 
 
 
-|&nbsp; &nbsp; <img src="assets/img/BrockLogo.png?raw=true" width="110"/>&nbsp; &nbsp; | January 2021- Present          |
+|<img src="assets/img/BrockLogo.png?raw=true" width="110"/>| January 2021- Present          |
 |:-------------|:------------------|
 | Teaching Assistant | Advanced Programming, Computer Systems, Advanced Data Structures, Introduction to Human-Computer Interaction |
 
@@ -33,7 +33,7 @@ layout: default
 
 
 
-| <img src="assets/img/Samsung.png?raw=true" width="130"/>       | January 2018- October 2020          |
+| <img src="assets/img/Samsung.png?raw=true" width="140"/>       | January 2018- October 2020          |
 |:-------------|:------------------|
 | Dev Ops |  iOS, Windows, Tizen, Android SCM and Dev Ops activities, Continuous Integration, Continuous Deployment using AWS |
 | Build | Central Build System, Build time optimization, Proof build for different version control tools, Automated Software Static Analysis System |
@@ -42,3 +42,8 @@ layout: default
 
 
 
+### Intern SQA Engineer, [Nilavo Technologies Limited](https://nilavo.com/), Dhaka, Bangladesh
+
+|<img src="assets/img/nilavo.png?raw=true" width="120"/>| November 2016- December 2016          |
+|:-------------|:------------------|
+| Web Test Automation | Web Test Automation using Selenium Webdriver, Introduction of Behavioral driver testing(Cucumber Testing) |
