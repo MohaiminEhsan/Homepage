@@ -60,7 +60,7 @@ layout: default
   Some text.
   </div>
   <div class="col-md-4" markdown="1">
-  <img height="600px" class="center-block" Hi>
+  HIIII
   </div>
 </div>
 
