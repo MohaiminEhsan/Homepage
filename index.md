@@ -59,7 +59,7 @@ layout: default
 
 
 
-|  M.Sc. in Computer Science(Ongoing),<br/> 2021-2023(Expected) <br/> [Brock University](https://brocku.ca/),<br/> Ontario, Canada <br/> <img width=350/>  | November 2016- December 2016          |
+|  M.Sc. in Computer Science(Ongoing),<br/> 2021-2023(Expected) <br/> [Brock University](https://brocku.ca/),<br/> Ontario, Canada <br/> <img width=350/>  | B.Sc in Computer Science & Engineering, <br/>2013-2017 <br/> [Islamic University of Technology(IUT)](https://www.iutoic-dhaka.edu/), <br/> Gazipur, Bangladesh <br/> <img width=350/> |
 |:-------------|:------------------|
 | Web Test Automation | Web Test Automation using Selenium Webdriver, Introduction of Behavioral driver testing(Cucumber Testing) |
 
