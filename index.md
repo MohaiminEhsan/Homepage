@@ -18,7 +18,7 @@ layout: default
 
 
 
-### DGL & MDGL Assitant, [Brock University Library](https://brocku.ca/library/), ON, Canada
+### DGL & MDGL Assistant, [Brock University Library](https://brocku.ca/library/), ON, Canada
 
 
 
