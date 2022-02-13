@@ -33,7 +33,7 @@ layout: default
 
 
 
-| <img src="assets/img/Samsung.png?raw=true" width="160"/>       | January 2018- October 2020          |
+| <img src="assets/img/Samsung.png?raw=true" width="360"/>       | January 2018- October 2020          |
 |:-------------|:------------------|
 | Dev Ops |  iOS, Windows, Tizen, Android SCM and Dev Ops activities, Continuous Integration, Continuous Deployment using AWS |
 | Build | Central Build System, Build time optimization, Proof build for different version control tools, Automated Software Static Analysis System |
