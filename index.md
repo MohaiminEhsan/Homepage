@@ -34,7 +34,7 @@ layout: default
 
 
 
-| <img src="assets/img/Samsung.png?raw=true" width="200"/>       | January 2018- October 2020          |
+| <img src="assets/img/Samsung.png?raw=true" width="200"/>       | February 2018- October 2020          |
 |:-------------|:------------------|
 | Dev Ops |  iOS, Windows, Tizen, Android SCM and Dev Ops activities, Continuous Integration, Continuous Deployment using AWS |
 | Build | Central Build System, Build time optimization, Proof build for different version control tools, Automated Software Static Analysis System |
@@ -53,4 +53,23 @@ layout: default
 ---
 
 
-## Educational Qualification
+## Educational Qualifications
+
+<div class="row">
+  <div class="col-md-8" markdown="1">
+  Some text.
+  </div>
+  <div class="col-md-4" markdown="1">
+  <img height="600px" class="center-block" Hi>
+  </div>
+</div>
+
+
+*M.Sc. in Computer Science, 2023
+[Brock University](https://brocku.ca/),
+Ontario, Canada
+
+* M.Sc. in Computer Science, 2023
+[Brock University](https://brocku.ca/),
+Ontario, Canada
+
