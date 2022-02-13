@@ -8,7 +8,7 @@ layout: default
 
 ## Work Experience
 
-### Graduate Teaching Assistant, [Brock Univerty](https://brocku.ca/), ON, Canada
+### Graduate Teaching Assistant, [Brock University](https://brocku.ca/), ON, Canada
 
 
 
@@ -18,7 +18,7 @@ layout: default
 
 
 
-### DGL & MDGL Assitant, [Brock Univerty Library](https://brocku.ca/library/), ON, Canada
+### DGL & MDGL Assitant, [Brock University Library](https://brocku.ca/library/), ON, Canada
 
 
 
