@@ -35,7 +35,7 @@ layout: default
 
 
 
-### Senior Software Engineer, [Samsung R&D Bangladesh Limited](https://research.samsung.com/srbd), Dhaka, Bangladesh
+### Senior Software Engineer, [Samsung R&D Institute Bangladesh](https://research.samsung.com/srbd), Dhaka, Bangladesh
 
 
 
