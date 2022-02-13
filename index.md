@@ -2,7 +2,7 @@
 layout: default
 ---
 # Portfolio
-[<img src="assets/img/fblogo.png?raw=true" width="30.5"/>](https://www.facebook.com/mohaiminehsan.anik/)
+[<img src="assets/img/fblogo.png?raw=true" width="29.5"/>](https://www.facebook.com/mohaiminehsan.anik/)
 [<img src="assets/img/ldlogo.PNG?raw=true" width="30"/>](https://www.linkedin.com/in/mohaimin-ehsan-02072412b)
 
 
@@ -27,6 +27,16 @@ layout: default
 | [Digital Scholership Lab](https://brocku.ca/library/dsl/) | Learn and document new tools that can help the students at Brock University. Arrange workshop on different tools  |
 | [Map Data & GIS Library](https://brocku.ca/library/mdgl/)  | Map Data Visualization Project, Journal of Invitational Theory and Practice Preparation                         |
 
+
+
+### Senior Software Engineer, [Samsung R&D Bangladesh Limited](https://research.samsung.com/srbd), Dhaka, Bangladesh
+
+
+
+| <img src="assets/img/BUL2.png?raw=true" width="120"/>       | September 2021- Present          |
+|:-------------|:------------------|
+| [Digital Scholership Lab](https://brocku.ca/library/dsl/) | Learn and document new tools that can help the students at Brock University. Arrange workshop on different tools  |
+| [Map Data & GIS Library](https://brocku.ca/library/mdgl/)  | Map Data Visualization Project, Journal of Invitational Theory and Practice Preparation                         |
 
 
 
