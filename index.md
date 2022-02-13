@@ -38,6 +38,7 @@ layout: default
 | Dev Ops |  iOS, Windows, Tizen, Android SCM and Dev Ops activities, Continuous Integration, Continuous Deployment using AWS |
 | Build | Central Build System, Build time optimization, Proof build for different version control tools, Automated Software Static Analysis System |
 | Tools & Systems  | Test Automation Framework(LTE testing platform with eNodeb), Artifactoy Deployment Service, UI Test Automation, R&D Hub Dashboard, Release Process Automation |
+|  | [Samsung DeX](https://www.samsung.com/ca/apps/samsung-dex/), [Gear Fit](https://apps.apple.com/ca/app/samsung-galaxy-fit-gear-fit/id1117312500), [Galaxy Buds](https://apps.apple.com/us/app/samsung-galaxy-buds/id1491433898), [Family Hub](https://apps.apple.com/us/app/samsung-family-hub/id1194886976), [Samsung Health](https://apps.apple.com/us/app/samsung-health/id1224541484), [HeartWise](https://apps.apple.com/us/app/samsung-heartwise/id1256730970), [GearS](https://apps.apple.com/ca/app/samsung-galaxy-watch-gear-s/id1117310635) |
 
 
 
