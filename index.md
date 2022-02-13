@@ -56,15 +56,8 @@ layout: default
 ## Educational Qualifications
 
 <div class="row">
-  <div class="col-md-8" markdown="1">
-  Some text.
-  </div>
-  <div class="col-md-4" markdown="1">
-  HIIII
-  </div>
-  <div class="col-md-4" markdown="2">
-  HIIII123124
-  </div>
+  <div class="column"> HIII</div>
+  <div class="column">Anik</div>
 </div>
 
 
