@@ -7,6 +7,8 @@ layout: default
 &nbsp; &nbsp; &nbsp; [<img src="assets/img/fblogo.png?raw=true" width="30"/>](https://www.facebook.com/mohaiminehsan.anik/) 
 &nbsp; &nbsp; &nbsp; [<img src="assets/img/ldlogo.PNG?raw=true" width="30"/>](https://www.linkedin.com/in/mohaimin-ehsan-02072412b)
 &nbsp; &nbsp; &nbsp; [<img src="assets/img/CV3.png?raw=true" width="30"/>](https://github.com/MohaiminEhsan/Portfolio/blob/main/MohaiminEhsanCV.pdf)
+<a id="raw-url" href="https://github.com/MohaiminEhsan/Portfolio/blob/main/MohaiminEhsanCV.pdf">Download FILE</a>
+
 ---
 
 ## Work Experience
