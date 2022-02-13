@@ -61,21 +61,11 @@ layout: default
 
 
 
-:::::: {.cols data-latex=""}
+| M.Sc. in Computer Science, 2023 <br/> [Brock University](https://brocku.ca/),<br/> Ontario, Canada| B.Sc in Computer Science $ Engineering, 2017 <br/> [Islamic University of Technology(IUT)](https://www.iutoic-dhaka.edu/), <br/> Gazipur, Bangladesh |
+|:-------------|:------------------|
 
-::: {.col data-latex="{0.45\textwidth}"}
-M.Sc. in Computer Science, 2023
-[Brock University](https://brocku.ca/),
-Ontario, Canada
-:::
-::: {.col data-latex="{0.10\textwidth}"}
-:::
-::: {.col data-latex="{0.45\textwidth}"}
-M.Sc. in Computer Science, 2023
-[Brock University](https://brocku.ca/),
-Ontario, Canada
-:::
-::::::
+
+
 
 
 
