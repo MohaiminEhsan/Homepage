@@ -61,7 +61,7 @@ layout: default
 
 
 
-| M.Sc. in Computer Science, 2023 <br/> [Brock University](https://brocku.ca/),<br/> Ontario, Canada| B.Sc in Computer Science $ Engineering, 2017 <br/> [Islamic University of Technology(IUT)](https://www.iutoic-dhaka.edu/), <br/> Gazipur, Bangladesh |
+| M.Sc. in Computer Science,<br/> 2021-2023(Expected) <br/> [Brock University](https://brocku.ca/),<br/> Ontario, Canada| B.Sc in Computer Science & Engineering, <br/>2013-2017 <br/> [Islamic University of Technology(IUT)](https://www.iutoic-dhaka.edu/), <br/> Gazipur, Bangladesh |
 |:-------------|:------------------|
 
 
