@@ -59,7 +59,7 @@ layout: default
 
 
 
-|<img src="assets/img/nilavo.png?raw=true" width="100"/>| November 2016- December 2016          |
+|  M.Sc. in Computer Science(Ongoing),<br/> 2021-2023(Expected) <br/> [Brock University](https://brocku.ca/),<br/> Ontario, Canada <br/> <img width=350/>  | November 2016- December 2016          |
 |:-------------|:------------------|
 | Web Test Automation | Web Test Automation using Selenium Webdriver, Introduction of Behavioral driver testing(Cucumber Testing) |
 
