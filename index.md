@@ -77,6 +77,8 @@ layout: default
 |:-------------|:------------------|
 | <b>Web Development</b> | <img src="assets/img/Web.png?raw=true" height="45" width="110"/> |
 | <b>Frameworks</b> | <img src="assets/img/django.png?raw=true" height="30"/> <img src="assets/img/Codeigniter.svg?raw=true" width="32"/> <img src="assets/img/Grovvy.png?raw=true" height="32"/>|
+| <b>Scripting</b> | <img src="assets/img/Ruby.jpg?raw=true" height="32"/> <img src="assets/img/Shell.png?raw=true" width="30"/> <img src="assets/img/bat.png?raw=true" height="32"/> <img src="assets/img/node.png?raw=true" height="32"/>|
+
 
 
 
