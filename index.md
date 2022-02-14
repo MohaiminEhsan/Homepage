@@ -76,7 +76,7 @@ layout: default
 | Promgramming Language <img width=350/> | <img src="assets/img/C.png?raw=true" width="30"/> <img src="assets/img/C++.png?raw=true" width="30"/> <img src="assets/img/java.svg?raw=true" height="35" width="30"/> <img src="assets/img/python.png?raw=true" width="30"/> <img width=350/> |
 |:-------------|:------------------|
 | <b>Web Development</b> | <img src="assets/img/Web.png?raw=true" height="45" width="110"/> |
-| <b>Frameworks</b> | <img src="assets/img/django.png?raw=true" height="30"/> <img src="assets/img/Codeigniter.svg?raw=true" width="32"/> Grovvy.png <img src="assets/img/Grovvy.png?raw=true" height="30"/>|
+| <b>Frameworks</b> | <img src="assets/img/django.png?raw=true" height="30"/> <img src="assets/img/Codeigniter.svg?raw=true" width="32"/> <img src="assets/img/Grovvy.png?raw=true" height="30"/>|
 
 
 
