@@ -73,7 +73,7 @@ layout: default
 # Skills
 
 
-| Promgramming Language <img width=350/> | <img src="assets/img/C.png?raw=true" width="30"/> <img src="assets/img/C++.png?raw=true" width="30"/> <img src="assets/img/java.jpg?raw=true" height="30" width="30"/> <img src="assets/img/python.png?raw=true" width="30"/> <img width=350/> |
+| Promgramming Language <img width=350/> | <img src="assets/img/C.png?raw=true" width="30"/> <img src="assets/img/C++.png?raw=true" width="30"/> <img src="assets/img/java.jpg?raw=true" height="35" width="30"/> <img src="assets/img/python.png?raw=true" width="30"/> <img width=350/> |
 |:-------------|:------------------|
 | Teaching Assistant | Advanced Programming, Computer Systems, Advanced Data Structures, Introduction to Human-Computer Interaction |
 
