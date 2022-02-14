@@ -78,7 +78,7 @@ layout: default
 | <b>Web Development</b> | <img src="assets/img/Web.png?raw=true" height="45" width="110"/> |
 | <b>Frameworks</b> | <img src="assets/img/django.png?raw=true" height="30"/> <img src="assets/img/Codeigniter.svg?raw=true" width="32"/> <img src="assets/img/Grovvy.png?raw=true" height="32"/>|
 | <b>Scripting</b> | <img src="assets/img/Ruby.jpg?raw=true" height="32"/> <img src="assets/img/Shell.png?raw=true" width="30"/> <img src="assets/img/bat.png?raw=true" height="32"/> <img src="assets/img/node.png?raw=true" height="32"/>|
-| <b>Dev Ops</b> | <img src="assets/img/QB.png?raw=true" width="30"/> <img src="assets/img/Jenkins.png?raw=true" height="33"/> <img src="assets/img/nagios.png?raw=true" height="33"/> <img src="assets/img/ansible.png?raw=true" width="30"/> <img src="assets/img/AWS.png?raw=true" height="31"/> <img src="assets/img/KB.png?raw=true" width="30"/> <img src="assets/img/Docker.png?raw=true" height="32"/>|
+| <b>Dev Ops</b> | <img src="assets/img/QB.png?raw=true" height="35"/> <img src="assets/img/Jenkins.png?raw=true" height="33"/> <img src="assets/img/nagios.png?raw=true" height="33"/> <img src="assets/img/ansible.png?raw=true" width="30"/> <img src="assets/img/AWS.png?raw=true" height="31"/> <img src="assets/img/KB.png?raw=true" width="30"/> <img src="assets/img/Docker.png?raw=true" height="32"/>|
 
 
 
