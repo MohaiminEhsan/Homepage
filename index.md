@@ -29,7 +29,7 @@ layout: default
 
 
 
-| <img src="assets/img/BUL2.png?raw=true" width="120"/>       | September 2021- Present          |
+| <img src="assets/img/BUL2.png?raw=true" width="120"/>       | September 2021- May 2022          |
 |:-------------|:------------------|
 | [Digital Scholership Lab](https://brocku.ca/library/dsl/) | Learn and document new tools that can help the students at Brock University. Arrange workshop on different tools  |
 | [Map Data & GIS Library](https://brocku.ca/library/mdgl/)  | Map Data Visualization Project, Journal of Invitational Theory and Practice Preparation                         |
