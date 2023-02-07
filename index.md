@@ -63,7 +63,7 @@ layout: default
 
 
 
-|  M.Sc. in Computer Science(Ongoing),<br/> 2021-2023(Expected) <br/> [Brock University](https://brocku.ca/),<br/> Ontario, Canada <br/>Focus: Vehicular Cloud Computing <img width=350/>  | B.Sc in Computer Science & Engineering, <br/>2013-2017 <br/> [Islamic University of Technology(IUT)](https://www.iutoic-dhaka.edu/), <br/> Gazipur, Bangladesh <br/> Focus: Human Computer Interaction <img width=350/> |
+|  M.Sc. in Computer Science,<br/> 2021-2023 <br/> [Brock University](https://brocku.ca/),<br/> Ontario, Canada <br/>Focus: Vehicular Cloud Computing <img width=350/>  | B.Sc in Computer Science & Engineering, <br/>2013-2017 <br/> [Islamic University of Technology(IUT)](https://www.iutoic-dhaka.edu/), <br/> Gazipur, Bangladesh <br/> Focus: Human Computer Interaction <img width=350/> |
 |:-------------|:------------------|
 |  | |
 
