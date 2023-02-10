@@ -10,6 +10,7 @@ layout: default
 &nbsp; &nbsp; &nbsp; [<img src="assets/img/Dlogo.png?raw=true" width="30"/>](https://github.com/MohaiminEhsan/Portfolio/raw/main/MohaiminEhsanCV.pdf)
 &nbsp; &nbsp; &nbsp; [<img src="assets/img/email.png?raw=true" width="30"/>](mailto:mohaiminehsan@outlook.com)
 
+### Email: [mohaiminehsan@outlook.com](mailto:mohaiminehsan@outlook.com), [mehsan@brocku.ca](mailto:mehsan@brocku.com)
 
 ---
 
@@ -63,7 +64,7 @@ layout: default
 
 
 
-|  M.Sc. in Computer Science,<br/> 2021-2023 <br/> [Brock University](https://brocku.ca/),<br/> Ontario, Canada <br/>Focus: Vehicular Cloud Computing <img width=350/>  | B.Sc in Computer Science & Engineering, <br/>2013-2017 <br/> [Islamic University of Technology(IUT)](https://www.iutoic-dhaka.edu/), <br/> Gazipur, Bangladesh <br/> Focus: Human Computer Interaction <img width=350/> |
+| M.Sc. in Computer Science,<br/> 2021-2023 <br/> [Brock University](https://brocku.ca/),<br/> Ontario, Canada <br/>Focus: Vehicular Cloud Computing <img width=350/>  | B.Sc in Computer Science & Engineering, <br/>2013-2017 <br/> [Islamic University of Technology(IUT)](https://www.iutoic-dhaka.edu/), <br/> Gazipur, Bangladesh <br/> Focus: Human Computer Interaction <img width=350/> |
 |:-------------|:------------------|
 |  | |
 
