@@ -81,7 +81,7 @@ layout: default
 | <b>Scripting</b> | <img src="assets/img/Ruby.jpg?raw=true" height="32"/> &nbsp; <img src="assets/img/Shell.png?raw=true" width="30"/> &nbsp; <img src="assets/img/bat.png?raw=true" height="32"/> &nbsp; <img src="assets/img/node.png?raw=true" height="32"/>|
 | <b>Dev Ops Tools</b> | <img src="assets/img/QB.png?raw=true" height="35"/> &nbsp; <img src="assets/img/Jenkins.png?raw=true" height="33"/> &nbsp; <img src="assets/img/nagios.png?raw=true" height="33"/> &nbsp; <img src="assets/img/ansible.png?raw=true" width="30"/> &nbsp; <img src="assets/img/AWS.png?raw=true" height="31"/> &nbsp; <img src="assets/img/KB.png?raw=true" width="30"/> &nbsp; <img src="assets/img/Docker.png?raw=true" height="32"/>|
 | <b>Version Control </b> | <img src="assets/img/SkillGithub.png?raw=true" width="30"/> &nbsp; <img src="assets/img/Gitlab.jpg?raw=true" width="30"/> &nbsp; <img src="assets/img/gerrit.png?raw=true" width="30"/> &nbsp; <img src="assets/img/git.png?raw=true" width="30"/> &nbsp; <img src="assets/img/SVN.png?raw=true" width="30"/> &nbsp; <img src="assets/img/p4.webp?raw=true" width="30"/> |
-| <b>ML</b> | <img src="assets/img/Pytorch.png?raw=true" height="45" width="100"/> &nbsp; <img src="assets/img/SL.png?raw=true" height="30" width="50"/> &nbsp; <img src="assets/img/pan.png?raw=true" height="45" width="100"/> |
+| <b>ML</b> | <img src="assets/img/Pytorch.png?raw=true" height="45" width="80"/> &nbsp; <img src="assets/img/SL.png?raw=true" height="30" width="40"/> &nbsp; <img src="assets/img/pan.png?raw=true" height="45" width="80"/>  &nbsp; <img src="assets/img/TF.png?raw=true" width="30"/>|
 
 
 
