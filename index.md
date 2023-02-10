@@ -10,7 +10,7 @@ layout: default
 &nbsp; &nbsp; &nbsp; [<img src="assets/img/Dlogo.png?raw=true" width="30"/>](https://github.com/MohaiminEhsan/Portfolio/raw/main/MohaiminEhsanCV.pdf)
 &nbsp; &nbsp; &nbsp; [<img src="assets/img/email.png?raw=true" width="30"/>](mailto:mohaiminehsan@outlook.com)
 
-### Email: [mohaiminehsan@outlook.com](mailto:mohaiminehsan@outlook.com), [mehsan@brocku.ca](mailto:mehsan@brocku.com)
+#### Email: [mohaiminehsan@outlook.com](mailto:mohaiminehsan@outlook.com), [mehsan@brocku.ca](mailto:mehsan@brocku.com)
 
 ---
 
