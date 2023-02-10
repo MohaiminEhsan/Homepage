@@ -87,7 +87,7 @@ layout: default
 
 ## Research Works
 ### M.SC. Research work
-**Priority-Based Resource Allocation Model for Vehicular Fog Computing**
+***Priority-Based Resource Allocation Model for Vehicular Fog Computing***  
 **Keywords:** Vehicular Fog Computing, Resource Management, Prioritization, Fuzzy Algorithm, Q-learning
 
 
