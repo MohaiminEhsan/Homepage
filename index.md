@@ -74,7 +74,7 @@ layout: default
 # Skills
 
 
-| Programming Language | <img src="assets/img/C.png?raw=true" width="30"/> <img src="assets/img/C++.png?raw=true" width="30"/> <img src="assets/img/java.svg?raw=true" height="35" width="30"/> <img src="assets/img/python.png?raw=true" width="30"/> <img src="assets/img/Objc.png?raw=true" width="30"/>|
+| Programming Language | <img src="assets/img/C.png?raw=true" width="30"/> <img src="assets/img/C++.png?raw=true" width="30"/> <img src="assets/img/java.svg?raw=true" height="35" width="30"/> <img src="assets/img/python.png?raw=true" width="30"/> <img src="assets/img/Objc.png?raw=true" width="30"/> <img src="assets/img/haskel.svg?raw=true" width="30"/>|
 |:-------------|:------------------|
 | <b>Web Development</b> | <img src="assets/img/Web.png?raw=true" height="45" width="110"/> |
 | <b>Frameworks</b> | <img src="assets/img/django.png?raw=true" height="30"/> <img src="assets/img/Codeigniter.svg?raw=true" width="32"/> <img src="assets/img/Grovvy.png?raw=true" height="32"/> <img src="assets/img/Appium.png?raw=true" width="35"/>|
