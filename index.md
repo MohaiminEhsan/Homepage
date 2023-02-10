@@ -102,3 +102,10 @@ layout: default
 Assessment Protocol, Real-time Visualization, Reliable Measurement    
 **Abstract:** Stroke patients with Upper Limb Disability (ULD) are re-acclimated to their lost motor capability through therapeutic interventions, following assessment by Physiotherapists (PTs) using various qualitative assessment protocols. However, the assessments are often biased and prone to errors. Real-time visualization and quantitative analysis of various Performance Metrics (PMs) of patient’s motion data, such as - Range of Motion (RoM), Repetition Rate (RR), Velocity (V), etc., may be vital for proper assessment. In this study, we present Renovo, a wearable inertial sensor-based therapeutic system, which assists PTs with real-time visualization and quantitative patient assessment, while providing patients with progress feedback. We showcase the results of a three-week pilot study on the rehabilitation of ULD patients (N=16), in 3 successive sessions at one-week interval, following evaluation both by Renovo and PTs (N=5). Results suggest that sensor-based quantitative assessment reduces the possibility of human error and bias, enhancing efficiency of rehabilitation.  
 
+
+## Awards
+* Faculty of Mathematics and Science Summer 2022 Research Award, Brock University
+* Dean of Graduate Studies Entrance Scholarship 2021, Brock University
+* 1st Runner Up, BASIS National ICT Awards 2020, Bangaldesh
+* Samsung Icon of the month, 2019
+* 1st Position Research project in Essonance 2017, Bangladesh
