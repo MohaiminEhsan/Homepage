@@ -17,13 +17,14 @@ layout: default
 
 ## Work Experience
 
-### Graduate Teaching Assistant, [Brock University](https://brocku.ca/), ON, Canada
+### Graduate Research and Teaching Assistant, [Brock University](https://brocku.ca/), ON, Canada
 
 
 
 |<img src="assets/img/BrockLogo.png?raw=true" width="110"/>| January 2021- Present          |
 |:-------------|:------------------|
-| Teaching Assistant | Advanced Programming, Computer Systems, Advanced Data Structures, Introduction to Human-Computer Interaction |
+| Teaching Assistant | Advanced Programming, Computer Systems, Advanced Data Structures, Introduction to Human-Computer Interaction etc|
+| Research Assistant |  Conducted urban vehicular simulation for varying simulation time vehicle densities using Omnetpp, Veins, Sumo5G|
 
 
 
