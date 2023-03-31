@@ -93,7 +93,7 @@ layout: default
 
 ## Research Works
 ### M.Sc. Research work
-***Priority-Based Resource Allocation Model for Vehicular Fog Computing***  
+<a href="https://dr.library.brocku.ca/handle/10464/17495"><strong><em>Priority-Based Resource Allocation Model for Vehicular Fog Computing</em></strong></a>  
 **Keywords:** Vehicular Fog Computing, Resource Management, Prioritization, Fuzzy Algorithm, Q-learning  
 **Platform:** Veins, SUMO, OMNet++  
 **Abstract:** Vehicle Fog Computing (VFC) provides opportunities to enhance a vehicle's processing capability as well as support services and applications for intelligent transportation. Due to its low-latency characteristic, VFC has become progressively valuable and appropriate for delay-sensitive applications. Vehicles must overcome substantial obstacles to match the required services and carry out jobs effectively. Several methods have attempted cooperatively pooling idle vehicle resources, and just a few have looked at priority techniques. We concentrate on hierarchically allocating resources based on priorities. Priority is given to resource requests based on some attributes of the vehicle, such as deadlines, distances, and mobility considerations. Dynamic thresholds are determined using the fuzzy membership functions for each vehicular attribute. Prioritization is arranged using a priority queue to identify and assign managed resources under requests and availability. Our proposed method enables fulfilling QoS standards by reducing the length of time a service request spends in the system queue and ensuring high throughput through effective resource allocation. Simulated evaluations revealed decreased response times and total costs for servicing requests in large-scale urban scenarios.  
