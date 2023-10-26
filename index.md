@@ -21,7 +21,7 @@ layout: default
 
 
 
-|<img src="assets/img/cnx.png?raw=true" width="110"/>| June 2023- Present          |
+|<img src="assets/img/cnx.png?raw=true" width="160"/>| June 2023- Present          |
 |:-------------|:------------------|
 | Tech Support | Point of contact for all HW and SW inquiries, Resolve technical issues|
 | Client Support | Issue categorization and documentation, Client product knowledge base|
