@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Homepage
-## Software Developer | Dev Ops. Engieer
+## Software Developer | Dev Ops. Engineer
 
 &nbsp; &nbsp; &nbsp; [<img src="assets/img/fblogo.png?raw=true" width="30"/>](https://www.facebook.com/mohaiminehsan.anik/)
 &nbsp; &nbsp; &nbsp; [<img src="assets/img/ldlogo.PNG?raw=true" width="30"/>](https://www.linkedin.com/in/mohaimin-ehsan-02072412b)
@@ -16,6 +16,17 @@ layout: default
 ---
 
 ## Work Experience
+
+### Advisor II Technical Support, [Concentrix Canada](https://www.concentrix.com/), ON, Canada
+
+
+
+|<img src="assets/img/cnx.png?raw=true" width="110"/>| June 2023- Present          |
+|:-------------|:------------------|
+| Tech Support | Point of contact for all HW and SW inquiries, Resolve technical issues|
+| Client Support | Issue categorization and documentation, Client product knowledge base|
+
+
 
 ### Graduate Research and Teaching Assistant, [Brock University](https://brocku.ca/), ON, Canada
 
@@ -34,7 +45,7 @@ layout: default
 
 | <img src="assets/img/BUL2.png?raw=true" width="120"/>       | September 2021- May 2022          |
 |:-------------|:------------------|
-| [Digital Scholership Lab](https://brocku.ca/library/dsl/) | Learn and document new tools that can help the students at Brock University. Arrange workshop on different tools  |
+| [Digital Scholarship Lab](https://brocku.ca/library/dsl/) | Learn and document new tools that can help the students at Brock University. Arrange workshop on different tools  |
 | [Map Data & GIS Library](https://brocku.ca/library/mdgl/)  | Map Data Visualization Project, Journal of Invitational Theory and Practice Preparation                         |
 
 
